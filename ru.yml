@@ -1,4 +1,4 @@
-ru:
+en:
   welcome_message: 'The best place on the web to find Smite guides, God skins, counterpicks, streamers, devtracker and more!'
   search_placeholder: 'Gods, items, streamers, players'
   gods: 'Gods'
@@ -48,3 +48,8 @@ ru:
   status: 'Status'
   last_checked: 'Last Checked'
   last_offline: 'Last Offline'
+  spells: 'Spells'
+  skins: 'Skins'
+  contact: 'Contact'
+  channel: 'Channel'
+  current_viewers: 'Current Viewers'

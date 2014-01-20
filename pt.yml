@@ -14,17 +14,17 @@ pt:
   filter_by_name: 'Filtrar por nome'
   reset_filter: 'Redefenir Filtro'
   free_rotation: 'Rotação Grátis'
-  ranged: 'Longo Alcance' //Not sure on the translation, maybe it's better to keep it in English
-  melee: 'Corpo a Corpo' //Not sure on the translation, maybe it's better to keep it in English
+  ranged: 'Longo Alcance'
+  melee: 'Corpo a Corpo'
   physical: 'Físico'
   magical: 'Mágico'
   assassin: 'Assassino'
   support: 'Apoio'
   tank: 'Tanque'
-  short_lane: 'Short Lane' //It's better to keep it in English
-  long_lane: 'Long Lane' //It's better to keep it in English
-  middle_lane: 'Middle Lane' //It's better to keep it in English
-  jungle: 'Jungle' //It's better to keep it in English, but you can change it to "Floresta"
+  short_lane: 'Short Lane'
+  long_lane: 'Long Lane'
+  middle_lane: 'Middle Lane'
+  jungle: 'Jungle'
   god_information: 'Informação sobre o Deus'
   release_date: 'Data de Lançamento'
   cost: 'Custo'
@@ -46,6 +46,11 @@ pt:
   subject: 'Assunto'
   latest_post: 'Tópicos Recentes'
   status: 'Estado'
-  last_checked: 'Last Checked' //Need context
-  last_offline: 'Last Offline' //Need context
+  last_checked: 'Verificado em'
+  last_offline: 'Offline em'
+  spells: 'Spells'
+  skins: 'Skins'
+  contact: 'Contacto'
+  channel: 'Channel'
+  current_viewers: 'Current Viewers'
 

@@ -48,3 +48,8 @@ en:
   status: 'Status'
   last_checked: 'Last Checked'
   last_offline: 'Last Offline'
+  spells: 'Spells'
+  skins: 'Skins'
+  contact: 'Contact'
+  channel: 'Channel'
+  current_viewers: 'Current Viewers'
