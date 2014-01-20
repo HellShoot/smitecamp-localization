@@ -8,5 +8,7 @@ Feel free to update our translation files to keep SmiteCamp international transl
     it = Italiano
     pt = Portugues
     ru = Russia
+    de = German
+    nb = Norwegian
 
 We really appreciate your time and help keeping these translations clean and accurate.
